@@ -25,5 +25,5 @@ app.use('*', (req, res, next) => {
 });
 
 app.listen(3000, () => {
-  console.log('Servidor levantado en: http://localhost:3000🤩');
+  console.log('Servidor levantado en: http://localhost:3000 🤩');
 });
